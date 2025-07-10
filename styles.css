@@ -42,5 +42,19 @@
   border-top-right-radius: 50%;
   border-bottom: 0;
   box-sizing: border-box;
-  background: #ffdcff;
+  background: #86c0af80;
+}
+#feets {
+  display: flex;
+  width: 30vmin;
+}
+
+#feet {
+  width: 7.5vmin;
+  height: 6vmin;
+  border: 0.5vmin solid black;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top: 0;
+  background: #86c0af80;
 }
